@@ -20,6 +20,6 @@ npx cypress open
 ```sh
 npm run report
 ```
-In case of allure report does not working locally, right click on index.html from allure-report directory, and select "Open with live server"
+In case of allure report does not work locally, right click on index.html from allure-report directory, and select "Open with live server"
 Required extension for live server: "Live Server"
 ![](Allure-report.png)
